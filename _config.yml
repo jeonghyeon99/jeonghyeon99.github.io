@@ -88,6 +88,7 @@ paginate_path:         /:num/
 #theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
+#로컬에서는 remote 사용, 블로그 올릴때는 theme사용
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
